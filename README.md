@@ -73,7 +73,7 @@
 [![Megha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mmeghashree456&theme=tokyo-night)]()
 
 <p align="center">
-✨ Dream Big • Build Bigger • Stay Curious ✨
+<code>while(alive) { learn(); build(); improve(); }</code>
 </p>
 
 <p align="center">
