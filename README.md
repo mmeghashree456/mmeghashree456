@@ -56,7 +56,71 @@
 <img src="https://img.shields.io/badge/Full%20Stack-DDA0DD?style=for-the-badge"/>
 
 </p>
+## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 AI Student Placement Predictor
+
+An AI/ML-powered platform that predicts placement probability and expected salary while providing personalized skill recommendations.
+
+**Tech Stack:**  
+`Python` `Scikit-learn` `XGBoost` `React.js` `Tailwind CSS`
+
+🌐 **[Live Demo]((https://student-placementpredictor.streamlit.app/))**  
+📂 **[GitHub](https://github.com/mmeghashree456/Student_Placement_Predictor)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 SahyogBharat
+
+A sustainability-focused application designed to help users understand and reduce the environmental impact of their purchases.
+
+**Tech Stack:**  
+`React.js` `Tailwind CSS` `Node.js` `Python` `Supabase`
+
+📂 **[GitHub](https://github.com/mmeghashree456/Sahyog_Bharat))**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 👴 Bujurg Mitra
+
+A technology-driven platform designed to provide support and assistance to senior citizens.
+
+**Tech Stack:**  
+`React.js` `JavaScript` `Firebase`
+ 
+📂 **[GitHub](https://github.com/mmeghashree456/bujurg-mitra)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 INTERVUEAI
+
+in progress...
+
+**Tech Stack:**  
+`Technology 1` `Technology 2` `Technology 3`
+
+🌐 **[Live Demo](YOUR_LIVE_LINK)**  
+📂 **[GitHub](YOUR_GITHUB_REPO_URL)**
+
+</td>
+
+</tr>
+</table>
 ---
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284103-162f8499-4f4f-4f55-9b39-c1a9d3f87f3f.gif">
@@ -76,10 +140,5 @@
 <code>while(alive) { learn(); build(); improve(); }</code>
 </p>
 
-<p align="center">
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mmeghashree456/mmeghashree-mmeghashree/output/github-contribution-grid-snake.svg" />
-</p>
 
