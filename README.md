@@ -43,7 +43,7 @@
 </tr>
 </table>
 
-# 🚀 Currently Learning
+#  Currently Learning
 
 <p align="center">
 
@@ -56,6 +56,7 @@
 <img src="https://img.shields.io/badge/Full%20Stack-DDA0DD?style=for-the-badge"/>
 
 </p>
+
 ## 🚀 Featured Projects
 
 <table>
@@ -121,7 +122,7 @@ in progress...
 
 </tr>
 </table>
----
+
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284103-162f8499-4f4f-4f55-9b39-c1a9d3f87f3f.gif">
 
@@ -130,14 +131,6 @@ in progress...
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmeghashree456&theme=tokyonight"/>
 
-</p>
-
-# 📈 Contribution Graph
-
-[![Megha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mmeghashree456&theme=tokyo-night)]()
-
-<p align="center">
-<code>while(alive) { learn(); build(); improve(); }</code>
 </p>
 
 
