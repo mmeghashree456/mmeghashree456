@@ -107,7 +107,7 @@ A technology-driven platform designed to provide support and assistance to senio
 
 <td width="50%" valign="top">
 
-### 🚀 INTERVUEAI
+### 🚀 GateAperture
 
 in progress...
 
