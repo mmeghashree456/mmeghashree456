@@ -71,7 +71,7 @@ An AI/ML-powered platform that predicts placement probability and expected salar
 **Tech Stack:**  
 `Python` `Scikit-learn` `XGBoost` `React.js` `Tailwind CSS`
 
-🌐 **[Live Demo]((https://student-placementpredictor.streamlit.app/))**  
+🌐 **[Live Demo](https://student-placementpredictor.streamlit.app/))**  
 📂 **[GitHub](https://github.com/mmeghashree456/Student_Placement_Predictor)**
 
 </td>
